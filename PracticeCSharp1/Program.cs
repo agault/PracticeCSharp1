@@ -33,6 +33,7 @@ namespace PracticeCSharp1
                         Console.WriteLine("{0} {1}", float.MinValue, float.MaxValue);
 
             /*impicit type conversion*/
+
             /* less bytes converted to more, no data loss so it works*/
             byte b = 1;
             int i = b;
